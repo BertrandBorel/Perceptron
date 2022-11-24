@@ -1,2 +1,2 @@
 # Perceptron
-Coder un perceptron avec Python
+Coder un perceptron avec Python.
